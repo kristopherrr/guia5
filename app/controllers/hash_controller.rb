@@ -1,10 +1,10 @@
 class HashController < ApplicationController
   def mostrar
     @persona = {
-    nombre: "Ana",
-    apellido: "Sael",
-    telefono: "123-456-7890",
-    correo: "ana.sael@example.com"
+    nombre: "Mario",
+    apellido: "Pérez",
+    telefono: "89221772",
+    correo: "Mario@gmail.com"
   }
   end
 end
